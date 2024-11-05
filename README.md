@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Louie 👋
 
+🔭 Currently working on working on a couple of projects that'll be going live soon
+- [ESC](https://e-commerce.studio)
+- [Everybrand](https://everybrand.co)
+- [Never Human](https://neverhuman.co)
+ 
 <!--
 **karmoon/karmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
