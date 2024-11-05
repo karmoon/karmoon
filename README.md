@@ -1,6 +1,6 @@
 ## Hi, I'm Louie 👋
 
-🔭 Currently working on working on a couple of projects that'll be going live soon
+Currently working on working on a couple of projects that'll be going live soon
 - [ESC](https://e-commerce.studio)
 - [Everybrand](https://everybrand.co)
 - [Never Human](https://neverhuman.co)
