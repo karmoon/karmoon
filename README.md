@@ -1,5 +1,7 @@
 ## Hi, I'm Louie 👋
 
+Founder of Karmoon a Shopify Design and Development Agency – [Karmoon](https://karmoon.co.uk) soon to be rebranded as [ESC](https://e-commerce.studio)
+
 Currently working on working on a couple of projects that'll be going live soon
 - [ESC](https://e-commerce.studio)
 - [Everybrand](https://everybrand.co)
