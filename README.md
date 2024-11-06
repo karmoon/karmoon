@@ -2,7 +2,7 @@
 
 <p>Founder of Karmoon, a Shopify Design and Development Agency – <a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a> soon to be rebranded as <a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a> </p>
 
-<p>Currently working on working on a couple of projects that'll be going live soon. </p>
+<p>Currently working on working on a couple of projects that'll be going live soon. <br>Probably shouldn't be doing everything at once, but the only way to manage stress, is to be so busy you don't have time to think about it.</p>
 
 ---
 
