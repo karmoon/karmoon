@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <th>🟠 MVP ------------------</th>
-    <th>🚧 In Progress ----------</th>
-    <th>😎 Sunsetting -----------</th>
-    <th>💀 Graveyard ------------</th>
+    <th>🟠 MVP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>🚧 In Progress &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>😎 Sunsetting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>💀 Graveyard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
     <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
@@ -22,6 +22,12 @@
   <tr>
     <td></td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Carbon (Coming Soon)</td>
     <td></td>
     <td></td>
   </tr>
