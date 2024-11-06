@@ -35,13 +35,13 @@
   </tr>
   <tr>
     <td></td>
-    <td>Git Commited (Coming Soon)</td>
+    <td>Git Commited (Prototype)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Shop Tracker (Coming Soon)</td>
+    <td>Shop Tracker (Prototype)</td>
     <td></td>
     <td></td>
   </tr>
