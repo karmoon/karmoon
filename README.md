@@ -1,25 +1,25 @@
 ## Hi, I'm Louie 👋
 
-<p>Founder of Karmoon a Shopify Design and Development Agency – <a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a> soon to be rebranded as <a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a> </p>
+<p>Founder of Karmoon, a Shopify Design and Development Agency – <a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a> soon to be rebranded as <a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a> </p>
 
-<p>Currently working on working on a couple of projects that'll be going live soon</p>
-<ul>
- <li><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a></li>
- <li><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></li>
- <li><a href="https://neverhuman.co" title="Never Human">Never Human</a></li>
-</ul>
- 
-<!--
-**karmoon/karmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Currently working on working on a couple of projects that'll be going live soon. </p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>🟠 MVP ------------------</th>
+    <th>🚧 In Progress ----------</th>
+    <th>💀 Graveyard ------------</th>
+  </tr>
+  <tr>
+    <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
+    <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a></td>
+    <td><a href="https://descripti.ai/" title="E-commerce Studio | Shopify Design and Development Agency">Descripti.ai</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
+    <td></td>
+  </tr>
+</table>
