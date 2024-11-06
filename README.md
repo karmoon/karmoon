@@ -4,6 +4,8 @@
 
 <p>Currently working on working on a couple of projects that'll be going live soon. <br>Probably shouldn't be doing everything at once, but the only way to manage stress, is to be so busy you don't have time to think about it.</p>
 
+<p>Fancy a chat, drop me a message at <a href="mailto:louie@karmoon.co.uk">louie@karmoon.co.uk</a></p>
+
 ---
 
 <table>
@@ -28,6 +30,18 @@
   <tr>
     <td></td>
     <td>Carbon (Coming Soon)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Git Commited (Coming Soon)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Shop Tracker (Coming Soon)</td>
     <td></td>
     <td></td>
   </tr>
