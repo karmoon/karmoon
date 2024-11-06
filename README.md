@@ -1,11 +1,13 @@
 ## Hi, I'm Louie 👋
 
-Founder of Karmoon a Shopify Design and Development Agency – [Karmoon](https://karmoon.co.uk) soon to be rebranded as [ESC](https://e-commerce.studio)
+<p>Founder of Karmoon a Shopify Design and Development Agency – <a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a> soon to be rebranded as <a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a> </p>
 
-Currently working on working on a couple of projects that'll be going live soon
-- [ESC](https://e-commerce.studio)
-- [Everybrand](https://everybrand.co)
-- [Never Human](https://neverhuman.co)
+<p>Currently working on working on a couple of projects that'll be going live soon</p>
+<ul>
+ <li><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a></li>
+ <li><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></li>
+ <li><a href="https://neverhuman.co" title="Never Human">Never Human</a></li>
+</ul>
  
 <!--
 **karmoon/karmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
