@@ -35,6 +35,12 @@
   </tr>
   <tr>
     <td></td>
+    <td>Path (Prototype)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td>Git Commited (Prototype)</td>
     <td></td>
     <td></td>
