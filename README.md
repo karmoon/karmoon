@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>Path (Prototype)</td>
+    <td>Path (Coming Soon)</td>
     <td></td>
     <td></td>
   </tr>
