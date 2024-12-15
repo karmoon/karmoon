@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
-    <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ESC</a></td>
+    <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ECS</a></td>
     <td><a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a></td>
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
