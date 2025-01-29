@@ -22,14 +22,14 @@
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Carbon (In Review)</td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Carbon (In Review)</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
