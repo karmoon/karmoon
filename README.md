@@ -22,7 +22,7 @@
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
   <tr>
-    <td><a href="https://carbon-default.myshopify.com/" title="Carbon">Carbon (Approved)</a></td>
+    <td><a href="https://carbon-theme-one.myshopify.com/" title="Carbon">Carbon (Approved)</a></td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
     <td></td>
     <td></td>
