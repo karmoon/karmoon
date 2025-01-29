@@ -29,12 +29,6 @@
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
     <td>Path (Coming Soon)</td>
     <td></td>
     <td></td>
