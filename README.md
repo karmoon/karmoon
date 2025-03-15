@@ -18,7 +18,7 @@
   <tr>
     <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ECS</a></td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
-    <td><a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon</a></td>
+    <td><a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon 😢</a></td>
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
   <tr>
