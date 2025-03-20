@@ -26,14 +26,14 @@
   <tr>
     <td></td>
     <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
-    <td>Path (Coming Soon)</td>
+    <td>Path (In Development)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>Git Commited (Prototype)</td>
+    <td>Git Commited (Prototype) </td>
     <td></td>
     <td></td>
   </tr>
