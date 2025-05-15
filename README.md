@@ -17,7 +17,7 @@
     <th>💀 Graveyard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
-    <td><a href="https://carbon-theme-one.myshopify.com/" title="Carbon">Carbon (Pending)</a></td>
+    <td><a href="https://themes.shopify.com/themes/carbon/styles/studio" title="Carbon Shopify Theme">Carbon Shopify Theme</a></td>
     <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ECS</a></td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
     <td><a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon 😢</a></td>
