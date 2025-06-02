@@ -17,14 +17,14 @@
     <th>💀 Graveyard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
-    <td><a href="https://themes.shopify.com/themes/carbon/styles/studio" title="Carbon Shopify Theme">Carbon Shopify Theme</a></td>
+    <td><a href="https://themes.shopify.com/themes/carbon/styles/studio" title="Carbon Shopify Theme">Carbon: Shopify Theme</a></td>
     <td><a href="https://e-commerce.studio" title="E-commerce Studio | Shopify Design and Development Agency">ECS</a></td>
     <td><a href="https://neverhuman.co" title="Never Human">Never Human</a></td>
     <td><a href="https://karmoon.co.uk" title="Karmoon | Shopify Design and Development Agency">Karmoon 😢</a></td>
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td><a href="https://getshopinsights.com" title="Shop Insights | Shopify Theme Detector">Shop Insights</td>
     <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
     <td>Path (In Development)</td>
     <td></td>
@@ -34,13 +34,6 @@
     <td></td>
     <td></td>
     <td>Git Commited (Prototype) </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Shop Tracker (Prototype)</td>
     <td></td>
     <td></td>
   </tr>
