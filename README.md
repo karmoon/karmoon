@@ -38,6 +38,3 @@
     <td></td>
   </tr>
 </table>
-
-<p> Profile Views </p>
-  <img src="https://profile-counter.glitch.me/karmoon/count.svg" />
