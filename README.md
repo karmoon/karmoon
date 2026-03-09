@@ -24,14 +24,14 @@
     <td><a href="https://descripti.ai/" title="AI Product Descriptions">Descripti.ai</a></td>
   </tr>
   <tr>
-    <td><a href="https://getshopinsights.com" title="Shop Insights | Shopify Theme Detector">Shop Insights</td>
+    <td><a href="https://themes.shopify.com/themes/carbon/presets/eternal"  title="Eternal Shopify Theme">Eternal: Shopify Theme</a></td>
     <td><a href="https://everybrand.co" title="Everybrand | E-commerce Design">Everybrand</a></td>
     <td>Path (In Development)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td><a href="https://getshopinsights.com" title="Shop Insights | Shopify Theme Detector">Shop Insights</td>
     <td></td>
     <td>Git Commited (Prototype) </td>
     <td></td>
